@@ -1,0 +1,9 @@
+*.feature
+*.pdf
+*.docx
+*.xlsx
+*.csv
+*.env
+.env*
+*.zip
+*.bak
